@@ -14,9 +14,9 @@ choose 4th last option せんたくせんとう
 
 this hack uses the first option in this menu (グループ00 / 0) to set up presets for the following bosses
 
-1: MUDO 1
-2: MUDO 2
-3: MUDO 3
+1: MUDO 1  
+2: MUDO 2  
+3: MUDO 3  
 
 then just confirm all the way until battle, ignoring all other inputs
 
