@@ -1,0 +1,11 @@
+asar_local/*
+bsnesplus/
+dll/
+docs/
+ext/
+notes/
+rom/
+asar.exe
+patches/*
+randomizer/*
+randomizer_backup/*
